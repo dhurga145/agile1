@@ -6,7 +6,7 @@ class Sum {
     int second = 20;
 
     // add two numbers
-    int sum = first + second;
+    int sum = first + second;//enter numbers
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
